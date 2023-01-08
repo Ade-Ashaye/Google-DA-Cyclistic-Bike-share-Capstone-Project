@@ -1,4 +1,4 @@
-# Google-DA-Cyclistic-Bike-share-Capstone-Project
+# Google-DA-Cyclistic-Bike-Share-Capstone-Project
 This is the capstone project done at the end of the Google Data Analytics Professional Certificate.
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
 ### Introduction
