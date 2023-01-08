@@ -13,7 +13,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 ## Phase One: Ask
 Three questions will guide the future marketing program: 1. How do annual members and casual riders use Cyclistic bikes differently? 2. Why would casual riders buy Cyclistic annual memberships? 3. How can Cyclistic use digital media to influence casual riders to become members? 
 ## Phase Two: Prepare 
-The data that we will be using is Cyclistic’s historical trip data from last 12 months (May-2020 to Apr-2021). The data has been made available by Motivate International Inc. on this link under this license.
+The data that we will be using is Cyclistic’s historical trip data from last 12 months (January-2022 to December-2022). The data has been made available by Motivate International Inc.
 
 The dataset consists of 12 CSV files (each for a month) with 13 columns and more than 4 million rows.
 
